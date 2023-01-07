@@ -1,0 +1,39 @@
+.loginContainer{
+    width: 500px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: solid 1px rgb(236, 227, 227);
+    border-radius: 5px;
+    padding: 15px 30px;
+    background-color: rgb(90, 157, 217);
+    color: #fff;
+}
+.fG{
+    margin: 20px 0;
+
+}.loginContainer .loginBtn{
+    display: flex;
+    justify-content: center;
+}
+.navigation a {
+    color: #fff;
+    padding-right: var(--bs-navbar-nav-link-padding-x);
+    padding-left: var(--bs-navbar-nav-link-padding-x);
+    transition: none;
+    display: block;
+   
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: var(--bs-nav-link-color);
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0 10px;
+}
+.tableCont{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}

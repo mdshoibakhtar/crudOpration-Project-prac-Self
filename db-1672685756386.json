@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "stName": "ayan",
+      "email": "ayan123@gmail.com",
+      "address": "delhi"
+    },
+    {
+      "id": "2",
+      "stName": "armaan",
+      "email": "armaan123@gmail.com",
+      "address": "mumbai"
+    },
+    {
+      "id": "3",
+      "stName": "aariz",
+      "email": "aariz123@gmail.com",
+      "address": "jharkhand"
+    },
+    {
+      "id": "4",
+      "stName": "baba",
+      "email": "baba123@gmail.com",
+      "address": "babugawn"
+    }
+  ]
+}
